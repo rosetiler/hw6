@@ -6,3 +6,8 @@
 
 ### Задание 2, частеречные тэги
 
+![](https://github.com/rosetiler/hw6/blob/master/graphik%202.png)
+
+### Задание 3, синонимы
+
+![](
